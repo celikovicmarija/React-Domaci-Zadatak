@@ -111,7 +111,7 @@ const WeatherCard = props => {
           {currentWeather.temperature}&deg;C
         </Typography>
         <Typography variant="subtitle2" color="textSecondary" gutterBottom>
-          Feels like {currentWeather.feels_like}&deg;C
+          Kao da je {currentWeather.feels_like}&deg;C
         </Typography>
         <Typography
           variant="subtitle2"
@@ -123,11 +123,11 @@ const WeatherCard = props => {
           <span
             className={`${strongWind} ${classes.wi} ${classes.atmospheric}`}
           ></span>
-          {currentWeather.wind_speed} km/h Winds{" "}
+          {currentWeather.wind_speed} km/h vetar{" "}
           <span
             className={`${humidity} ${classes.wi} ${classes.atmospheric}`}
           ></span>
-          {currentWeather.humidity}% Humidity
+          {currentWeather.humidity}% Vlažnost
         </Typography>
         <Typography
           className={`${classes.recommendation} recommendation`}

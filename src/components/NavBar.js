@@ -13,6 +13,8 @@ import {
 
 import about from "../about.png";
 import { Logo } from "./Logo";
+import MapChart from "./MapChart";
+import ReactTooltip from "react-tooltip";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -106,6 +108,15 @@ const TemporaryDrawer = () => {
               rel="noopener noreferrer"
             >
               React dokumentacija
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.react-simple-maps.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Ugradnja mapa na sajt
             </a>
           </li>
         </ul>
@@ -211,6 +222,83 @@ const TemporaryDrawerContact = () => {
 
 
 
+const DrawerMap = () => {
+  const classes = useStyles();
+  const [state, setState] = useState({
+    "left": false
+  });
+  const [content, setContent] = useState("");
+
+  const toggleDrawer = (side, open) => event => {
+    if (
+      event.type === "keydown" &&
+      (event.key === "Tab" || event.key === "Shift")
+    ) {
+      return;
+    }
+
+    setState({ ...state, [side]: open });
+  };
+
+  const sideList = side => (
+    <div
+      className={classes.list}
+      role="presentation"
+      onClick={toggleDrawer(side, false)}
+      onKeyDown={toggleDrawer(side, false)}
+    >
+      <Typography className={classes.aboutText} component="div" gutterBottom>
+        <b>ReactWeather</b> je rad  kreiran kao domaći zadatak {" "}
+        <span role="img" aria-label="love emoji" style={{ color: "red" }}>
+          ♥️
+        </span>{" "}
+        za projekat iz ITEH-a od strane{" "}
+        <a
+          href="https://github.com/celikovicmarija"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          studenta @ FON
+        </a>
+      </Typography>
+      <Divider variant="middle" />
+      <MapChart setTooltipContent={setContent} />
+      <ReactTooltip>{content}</ReactTooltip>
+      <Divider variant="middle" />
+      <p className={classes.aboutText} >U ovim danima kada se svima nama putuje, kada spremamo ispite i maštamo o danu kada ćemo
+      konačno završiti sa svojim obavezama, volim da razmišljam kuda bih sve išla.
+        Ovo je za sve one koji dele moje misli. Prikazana je mapa sveta i ako biste prešli
+        mišem preko nje, država bi pocrvenela i pokazala koliko u njoj ima stanovnika.
+        Neat, zar ne?
+      </p>
+
+    </div>
+  );
+
+  return (
+    <div>
+      <Button
+        className="about-btn"
+        onClick={toggleDrawer("left", true)}
+        data-testid="toggle"
+      >
+        Mapa
+      </Button>
+      <Drawer
+        anchor="left"
+        open={state.left}
+        onClose={toggleDrawer("left", false)}
+      >
+        {sideList("left")}
+      </Drawer>
+    </div>
+  );
+};
+
+
+
+
+
 
 
 
@@ -223,6 +311,7 @@ export default function NavBar() {
         <Toolbar variant="dense">
           <Logo />
           <div style={{ flex: "1 1 auto"  }}></div>
+          <DrawerMap/>
           <TemporaryDrawer />
           <TemporaryDrawerContact />
           <Button className="github-btn">

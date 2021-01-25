@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e20d9c9c-0d4a-4232-bf6e-feb6df1c84f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MapChart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__mocks__/Weather.mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AppLayout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WeatherSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherSearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recommendations.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/recommendations.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611531715909</updated>
       <workItem from="1611531718441" duration="1975000" />
-      <workItem from="1611563824514" duration="15056000" />
+      <workItem from="1611563824514" duration="18163000" />
     </task>
     <servers />
   </component>
