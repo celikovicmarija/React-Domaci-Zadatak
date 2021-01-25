@@ -5,9 +5,10 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 
 import Weather from "./Weather";
 import NavBar from "./NavBar";
-
+import Footer from "./Footer";
+import "../css/App.css";
 export default function App() {
-  const [city, setCity] = useState("Eldoret");
+  const [city, setCity] = useState("Belgrade");
   const [error, setError] = useState(null);
   const [currentWeather, setCurrentWeather] = useState({});
   const [forecast, setForecast] = useState([]);
@@ -75,6 +76,7 @@ export default function App() {
             error={error}
           />
         </Container>
+        <Footer/>
       </ThemeProvider>
     );
   } else {

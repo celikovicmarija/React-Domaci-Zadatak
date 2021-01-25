@@ -30,17 +30,30 @@
     border: 0;
     font-family: "Roboto", sans-serif;
 }
-
-
-
-
-.error {
-    border-style: solid;
-    border: 2px solid #ffa4a4;
+.poruka{
+    min-height: 100px;
+    margin: 10px 0 10px 0;
+    padding: 15px;
+    font-size: 16px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
 }
 
+#email-error {
+    color: red;
+}
+
+#last-name-error{
+    color: red;
+}
+
+#first-name-error {
+    color: red;
+}
+
+
 button {
-    background: #4caf50;
+    background: rgb(127,255,212);
     color: white;
     cursor: pointer;
 }

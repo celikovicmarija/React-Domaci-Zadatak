@@ -1,142 +1,142 @@
 {
   "day": {
     "200": {
-      "recommendation": "Stormy with a bit of rain. Coat required"
+      "recommendation": "Olujno uz malo kiše. Poneti kaput"
     },
     "201": {
-      "recommendation": "Stormy with showers. Grab a brolly on your way out"
+      "recommendation": "Olujno uz jače kiše. Ne zaboraviti kišobran pri izlasku"
     },
     "202": {
-      "recommendation": "It's going to be absolutely torrential out there today. Carry as many umbrellas as you can"
+      "recommendation": "Danas će biti apsolutna poplava. Poneti kišobrana koliko god da vam staje u torbu"
     },
     "210": {
-      "recommendation": "Light storm on the way. Good time for that spare lightning detector you've had lying around"
+      "recommendation": "Stiže blaga oluja. Taman za detektor munja koji vam skuplja prašinu na tavanu"
     },
     "211": {
-      "recommendation": "A storm on the way. Mind your eardrums please."
+      "recommendation": "Stiže oluja. Pripremite svoje bubne opne"
     },
     "212": {
-      "recommendation": "Biblical weather today. Gumboots and a life jacket are the bare minimum"
+      "recommendation": "Biblijsko vreme. Danas se ne može bez gumenih čizmi i prsluka za spasavanje"
     },
     "221": {
-      "recommendation": "Horrid weather. Jackets, brollies, heck, you might even need a boat"
+      "recommendation": "Užasno vreme. Jakna, kišobran, a možda i omanji čamac"
     },
     "230": {
-      "recommendation": "Storms and a bit of rain. Brolly + layers I'm afraid"
+      "recommendation": "Oluja uz malo kiše. Bojim se da će vam trebati kišobran i slojevito oblačenje"
     },
     "231": {
-      "recommendation": "Rain + storms aka you'll look pretty daft going without a jacket today"
+      "recommendation": "Kiša i oluja dakle izgledaćete smešno ako izađete bez jakne danas"
     },
     "232": {
-      "recommendation": "Rainfall incoming. Umbrella for goodness sake!"
+      "recommendation": "Kiša ide prema Vama. Pobogu, gde ste bez kišobrana krenuli?"
     },
     "300": {
-      "recommendation": "Well, a bit of rain never killed anyone. Am I even legally allowed to say er... *frantically deletes*"
+      "recommendation": "Malo kiše nije nikoga ubilo..."
     },
     "301": {
-      "recommendation": "Rain, but not terminal. Be sensible and wear a coat for heavens sake"
+      "recommendation": "Kiša, ništa strašno. Poneti neki kvalitetan kaput"
     },
     "302": {
-      "recommendation": "Rain, of the annoying variety. Don't get caught out"
+      "recommendation": "Kiša, u dosadnoj raznovrsnosti. Bolje budite unutra ako ste u prilici"
     },
     "310": {
-      "recommendation": "The kind of rain you see people dance in in the movies. You'll be fine"
+      "recommendation": "Onaj tip kiše uz koju ljudi na filmovima igraju. Bićete Vi dobro"
     },
     "311": {
-      "recommendation": "A spot of rain. Nothing to be overly worried about"
+      "recommendation": "Poneka kap kiše. Nema razloga za brigu"
     },
     "312": {
-      "recommendation": "More rain, I'm afraid. Coat or jacket as standard"
+      "recommendation": "Još malo kiše, nažalost. Standardno, kaput ili dobra jakna"
     },
     "313": {
-      "recommendation": "Showers forecasted. That means a free shower for you if you don't carry a brolly"
+      "recommendation": "Ako ne ponesete kišobran imaćete besplatno kupanje."
     },
     "314": {
-      "recommendation": "Cats and dogs. Umbrella and a thick pair of wellies required."
+      "recommendation": "Padaće pingvini. Kišobran i naoružajte se strpljenjem."
     },
     "321": {
-      "recommendation": "Rain, but the sort you could survive by staying indoors. Umbrella optional"
+      "recommendation": "Kiša koju je lepo gledati kroz prozor."
     },
     "500": {
-      "recommendation": "You can get away with just a sweater today. Disclaimer: I will not be held responsible for any rain-related mishaps"
+      "recommendation": "Danas možete izaći samo i džemperu.  Disclaimer: Nisam odgovorna za nepredvidive situacije"
     },
     "501": {
-      "recommendation": "A bit more rain. Best carry an umbrella chap"
+      "recommendation": "Još malo kiše. Bolje ponesite kišobran, kolega"
     },
     "502": {
-      "recommendation": "Now this is getting annoying. Umbrella + jacket required"
+      "recommendation": "Ovo već postaje naporno. Kišobran i jakna su obavezni"
     },
     "503": {
-      "recommendation": "Biblical amounts of rain forecasted. Umbrella, jacket, coat, layers, life jacket, and standby boat as standard"
+      "recommendation": "Nezapamćene količine kiše. Umbrella, jacket, coat, layers, life jacket, and standby boat as standard"
     },
     "504": {
-      "recommendation": "I'm delighted to tell you that you're not leaving the house today because you'd literally drown in the rain outside"
+      "recommendation": "Preporuka da ostaneš unutra jer ćeš se u suprotnom udaviti u kiši napolju"
     },
     "511": {
-      "recommendation": "Rain, biting cold, soul-renching conditions, the works. You'd be well advised to seek cover and remain indoors"
+      "recommendation": "Kiša, zima koja grize, nimalo naivno. Najbolje raditi od kuće danas."
     },
     "520": {
-      "recommendation": "Showers forecasted. Carry an umbrella for goodness sake!"
+      "recommendation": "Kiše i pljuskovi danas. Najbolje ponesite kišobran"
     },
     "521": {
-      "recommendation": "Showers forecasted. Please carry an umbrella for goodness sake"
+      "recommendation": "Kiše i pljuskovi danas. Najbolje ponesite kišobran, pobogu"
     },
     "522": {
-      "recommendation": "You're getting absolutely drenched if you dare go without a military-grade jacket and umbrella combo today"
+      "recommendation": "Bićete skroz mokri bez military-grade jakne i kišobrana danas"
     },
     "531": {
-      "recommendation": "Ragged rains. You're going to need a jacket, wellies and industrial-strength fortitude to make it through this"
+      "recommendation": "Lude kiše.Jakna, wellies and industrial-strength fortitude to ke it through this"
     },
     "600": {
-      "recommendation": "Light snow forecasted. You'll be fine"
+      "recommendation": "Blagi sneg, ništa strašno"
     },
     "601": {
-      "recommendation": "Snow. But you'll live. Just carry a sweater for good measure"
+      "recommendation": "Sneg, ali preživećeš. Samo se obuci toplo"
     },
     "602": {
-      "recommendation": "It's blustery out there. Consider calling in sick at the office"
+      "recommendation": "Baš vetrovito. Možda rad od kuće?"
     },
     "611": {
-      "recommendation": "Umbrella and coat as standard"
+      "recommendation": "Kišobran i jakna, kao i uvek"
     },
     "612": {
-      "recommendation": "Umbrella and coat as standard"
+      "recommendation": "Kišobran i jakna, kao i uvek"
     },
     "613": {
-      "recommendation": "Umbrella and coat as standard"
+      "recommendation": "Kišobran i jakna, kao i uvek"
     },
     "615": {
-      "recommendation": "Umbrella and coat as standard. Don't say I didn't warn you"
+      "recommendation": "Kišobran i jakna, kao i uvek. Nemoj reći da te nisam upozorila"
     },
     "616": {
-      "recommendation": "Umbrella + coat + a nice cup of a warm beverage recommended"
+      "recommendation": "Kišobran i jakna, kao i uvek. Možda i topla čokolada"
     },
     "620": {
-      "recommendation": "A light jacket should do the trick"
+      "recommendation": "Tanja jaknica bi trebalo da je dovoljna"
     },
     "621": {
-      "recommendation": "Rain + snow. Could be better. Could be worse. Jacket + brolly recommended"
+      "recommendation": "Kiša i sneg. Može bolje, može gore. Poneti kaput"
     },
     "622": {
-      "recommendation": "It's an absolute warzone out there. Coat, umbrella, jacket and military-grade helmet required"
+      "recommendation": "Kao da je rat napolju. Coat, umbrella, jacket and military-grade helmet required"
     },
     "701": {
-      "recommendation": "The air is thick with fog and there's just barely a light rain. Tread carefully"
+      "recommendation": "Gusta magla i slaba kiša. Budite obazrivi"
     },
     "702": {
-      "recommendation": "Do you smell burning? I smell burning..."
+      "recommendation": "Osećaš li kao da nešto gori?..."
     },
     "711": {
-      "recommendation": "Smoke warning - potential forest fire hazard. Be extremely vigilant and on the lookout for the most up to date weather advisories"
+      "recommendation": "Dimno upozorenje- mogući požari. Budite veoma obazrivi and on the lookout for the most up to date weather advisories"
     },
     "721": {
       "recommendation": "The sun's out but it's hazy. I've got work, but I'm lazy. Like a mini Eminem, right?"
     },
     "731": {
-      "recommendation": "Like walking out in the Sahara is what it looks like out there. Tech wear the absolute bare minimum"
+      "recommendation": "Meni ovo na Saharu liči..."
     },
     "741": {
-      "recommendation": "Foggy weather. Visibility severely impacted. Take extreme care when driving if you must."
+      "recommendation": "Magla skraćuje vidno polje. Ako baš morate da vozite, obazrivo"
     },
     "751": {
       "recommendation": "Potential sandstorms expected. Avoid the outdoors if you can"
@@ -154,201 +154,201 @@
       "recommendation": "Tornado warning - take immediate cover at the first sign. Avoid windows."
     },
     "800": {
-      "recommendation": "It's a beautiful day. Lather up on some sunscreen and maybe carry a hat too for good measure."
+      "recommendation": "Divan dan. Malo kreme za sunčanje i neka kapica za svaki slučaj"
     },
     "801": {
-      "recommendation": "Great day for a hanging out the laundry and maybe a nice picnic date later :)"
+      "recommendation": "Dobar dan za sušenje veša napolju i možda piknik :)"
     },
     "802": {
-      "recommendation": "Love is in the air. Call that special someone up for a coffee"
+      "recommendation": "Ljubav je u vazduhu. Pozovite svog dragog/u na kafu"
     },
     "803": {
-      "recommendation": "'Netflix and chill' weather. It's pleasant outside"
+      "recommendation": "'Netflix and chill' . Prijatno je napolju"
     },
     "804": {
-      "recommendation": "Great day for a run. Pack that gym bag"
+      "recommendation": "Divno vreme za trčanje. Pakujte se i u teretanu."
     }
   },
   "night": {
     "200": {
-      "recommendation": "Stormy with a bit of rain. Coat required"
+      "recommendation": "Olujno uz malo kiše. Poneti kaput"
     },
     "201": {
-      "recommendation": "Stormy with showers. Grab a brolly on your way out"
+      "recommendation": "Oluja uz pljuskove. Grab a brolly on your way out"
     },
     "202": {
-      "recommendation": "It's going to be absolutely torrential out there. Carry as many umbrellas as you can"
+      "recommendation": "Biće poplava večeras. Poneti kišobrana koliko god da možete"
     },
     "210": {
-      "recommendation": "Light storm on the way. Good time for that spare lightning detector you've had lying around"
+      "recommendation": "Blaga oluja. Dobra za onaj rezervni lightning detector koji skuplja prašinu na tavanu"
     },
     "211": {
-      "recommendation": "A storm on the way. Mind your eardrums please."
+      "recommendation": "Oluja na putu. Pripremite bubne opne."
     },
     "212": {
-      "recommendation": "Biblical weather today. Gumboots and a life jacket are the bare minimum"
+      "recommendation": "Katastrofalno vreme- gumenjaci i omanji čamac, bez toga ništa"
     },
     "221": {
       "recommendation": "Horrid weather. Jackets, brollies, heck, you might even need a boat"
     },
     "230": {
-      "recommendation": "Storms and a bit of rain. Brolly + layers I'm afraid"
+      "recommendation": "Oluja uz malo kiše. Kišobran + slojevito oblačenje I'm afraid"
     },
     "231": {
-      "recommendation": "Rain + storms aka you'll look pretty daft going without a jacket today"
+      "recommendation": "Kiša i oluja pa ćeš izgledati smešno bez kaputa danas"
     },
     "232": {
-      "recommendation": "Rainfall incoming. Umbrella for goodness sake!"
+      "recommendation": "Rainfall incoming. Kišobran zaboga!"
     },
     "300": {
-      "recommendation": "Well, a bit of rain never killed anyone. Am I even legally allowed to say er... *frantically deletes*"
+      "recommendation": "Malo kiše još nije nikoga ubilo..."
     },
     "301": {
-      "recommendation": "Rain, but not terminal. Be sensible and wear a coat for heavens sake"
+      "recommendation": "Malo kiše, ništa strašno. Obucite se toplo"
     },
     "302": {
-      "recommendation": "Rain, of the annoying variety. Don't get caught out"
+      "recommendation": "Kiša u dosadnim varijantama. Bolje budite negde unutra"
     },
     "310": {
-      "recommendation": "The kind of rain you see people dance in in the movies. You'll be fine"
+      "recommendation": "Onaj tip kiše uz koju ljudi u filmovima igraju. Bićeš u redu"
     },
     "311": {
-      "recommendation": "A spot of rain. Nothing to be overly worried about"
+      "recommendation": "Poneka kap kiše, ništa zabrinjavajuće"
     },
     "312": {
-      "recommendation": "More rain, I'm afraid. Coat or jacket as standard"
+      "recommendation": "Još kiše. Kišobran, molim"
     },
     "313": {
-      "recommendation": "Showers forecasted. That means a free shower for you if you don't carry a brolly"
+      "recommendation": "Predviđeni pljuskovi. Besplatno tuširanje ako ne ponesete kišobran"
     },
     "314": {
       "recommendation": "Cats and dogs. Umbrella and a thick pair of wellies required."
     },
     "321": {
-      "recommendation": "Rain, but the sort you could survive by staying indoors. Umbrella optional"
+      "recommendation": "Kišobran ako izlazite je opcion. Najbolje ćete proći ako budete unutra"
     },
     "500": {
-      "recommendation": "You can get away with just a sweater today. Disclaimer: I will not be held responsible for any rain-related mishaps"
+      "recommendation": "Danas je i džemper dovoljan. Disclaimer: nije moja krivica ako padne kiša"
     },
     "501": {
-      "recommendation": "A bit more rain. Best carry an umbrella chap"
+      "recommendation": "Kolega, trebaće vam kišobran danas"
     },
     "502": {
-      "recommendation": "Now this is getting annoying. Umbrella + jacket required"
+      "recommendation": "Ovo postaje dosadno. Kišobran i jakna obavezni"
     },
     "503": {
-      "recommendation": "Biblical amounts of rain forecasted. Umbrella, jacket, coat, layers, life jacket, and standby boat as standard"
+      "recommendation": "Nezapamće količine kiše. Umbrella, jacket, coat, layers, life jacket, and standby boat as standard"
     },
     "504": {
-      "recommendation": "I'm delighted to tell you that you're not leaving the house today because you'd literally drown in the rain outside"
+      "recommendation": "Drago mi je da ti kažem da je najbolje da ostaneš unutra danas ako nemaš želju da se udaviš negde usput"
     },
     "511": {
-      "recommendation": "Rain, biting cold, soul-renching conditions, the works. You'd be well advised to seek cover and remain indoors"
+      "recommendation": "Kiša, zima koja grize, nimalo prijatno. You'd be well advised to seek cover and remain indoors"
     },
     "520": {
-      "recommendation": "Showers forecasted. Carry an umbrella for goodness sake!"
+      "recommendation": "Pljuskovi predviđeni. Jaknu, pobogu!"
     },
     "521": {
-      "recommendation": "Showers forecasted. Please carry an umbrella for goodness sake"
+      "recommendation": "Pljuskovi. Jaknu, moliću!"
     },
     "522": {
-      "recommendation": "You're getting absolutely drenched if you dare go without a military-grade jacket and umbrella combo today"
+      "recommendation": "Cedićeš se ako se usudiš da izađeš bez kombinacije military-grade jakne i kišobrana "
     },
     "531": {
-      "recommendation": "Ragged rains. You're going to need a jacket, wellies and industrial-strength fortitude to make it through this"
+      "recommendation": "Luda kiša. Jakna, wellies and industrial-strength fortitude to make it through this"
     },
     "600": {
-      "recommendation": "Light snow forecasted. You'll be fine"
+      "recommendation": "Blagi sneg, bez brige"
     },
     "601": {
-      "recommendation": "Snow. But you'll live. Just carry a sweater for good measure"
+      "recommendation": "Sneg, ali preživećeš. Samo ponesi dobar kaput"
     },
     "602": {
-      "recommendation": "It's blustery out there. Consider calling in sick at the office"
+      "recommendation": "Jaki vetrovi... Možda da javiš da si bolestan/na poslu?"
     },
     "611": {
-      "recommendation": "Umbrella and coat as standard"
+      "recommendation": "Jakna i kaput kao i uvek..."
     },
     "615": {
-      "recommendation": "Umbrella and coat as standard. Don't say I didn't warn you"
+      "recommendation": "Jakna i kaput po običaju.... Da ne bude da nisi upozoren/a"
     },
     "616": {
-      "recommendation": "Umbrella + coat + a nice cup of a warm beverage recommended"
+      "recommendation": "Jakna i kaput i neka topla čokolada bi bili idealni"
     },
     "620": {
-      "recommendation": "A light jacket should do the trick"
+      "recommendation": "Tanja jaknica bi trebalo da je dovoljna."
     },
     "621": {
-      "recommendation": "Rain + snow. Could be better. Could be worse. Jacket + brolly recommended"
+      "recommendation": "Kiša i sneg. Može bolje, može gore. Kaput i kišobran su preporuka"
     },
     "622": {
-      "recommendation": "It's an absolute warzone out there. Coat, umbrella, jacket and military-grade helmet required"
+      "recommendation": "Kao da je ratna zona. Kaput, kišobran i military-grade helmet"
     },
     "701": {
-      "recommendation": "The air is thick with fog and there's just barely a light rain. Tread carefully"
+      "recommendation": "Gusta magla i poneka kap kiše. Oprezno"
     },
     "702": {
-      "recommendation": "Do you smell burning? I smell burning..."
+      "recommendation": "Osećaš li kao da je nešto zagorelo?..."
     },
     "711": {
-      "recommendation": "Smoke warning - potential forest fire hazard. Be extremely vigilant and on the lookout for the most up to date weather advisories"
+      "recommendation": "Dimno upozorenje - mogući šumski požari. Budite ekstremno na oprezu i pratite lokalne informacije"
     },
     "721": {
-      "recommendation": "Silent night, hazy night... you'll need your standard-issue mil-spec night vision goggles"
+      "recommendation": "Tiha i maglovita noć... you'll need your standard-issue mil-spec night vision goggles"
     },
     "731": {
-      "recommendation": "Like walking out in the Sahara is what it looks like out there. Tech wear the absolute bare minimum"
+      "recommendation": "Ovo meni na Saharu liči"
     },
     "741": {
-      "recommendation": "Foggy weather. Visibility severely impacted. Take extreme care when driving if you must."
+      "recommendation": "Magla će značajno smanjiti vidljivost. Ako morate da vozite- oprezno"
     },
     "751": {
-      "recommendation": "Potential sandstorms expected. Avoid the outdoors if you can"
+      "recommendation": "MOguća peščana oluja- budite unutra ako možete"
     },
     "761": {
-      "recommendation": "Potential dust storms expected. Take cover and remain safe"
+      "recommendation": "Moguća dust storms. Sakrijte se negde unutra."
     },
     "762": {
-      "recommendation": "Volcanic ash advisory - stay indoors whenever possible"
+      "recommendation": "Vulkanska prašina- budite unutra ako možete"
     },
     "771": {
-      "recommendation": "Snow squall warning - avoid the outdoors if you can"
+      "recommendation": "Susnežica- budite unutra ako možete"
     },
     "781": {
-      "recommendation": "Tornado warning - take immediate cover at the first sign. Avoid windows."
+      "recommendation": "Tornado upozorenje - sakrijte se čim primetite da kreće držite se dalje od prozora"
     },
     "800": {
-      "recommendation": "Clear skies. Kind of night where you fire up stellarium and cozy up underneath the telescope"
+      "recommendation": "Vedro. Taman za posmatranje zvezda..."
     },
     "801": {
-      "recommendation": "Cloudy skies on a blustery evening. Snuggle up with a hot cuppa"
+      "recommendation": "Oblačno i poneki nalet vetra. Utoplite se uz šolju kafe!"
     },
     "802": {
-      "recommendation": "Cloudy gusts forecasted. You'll wanna get a coat"
+      "recommendation": "Naleti vetra predviđeni. Preporuka za dobar kaput"
     },
     "803": {
-      "recommendation": "Cloudy and blustery outside. Coat required"
+      "recommendation": "Oblačno sa povremenim jakim vetrovima. Kaput obavezan"
     },
     "804": {
-      "recommendation": "Cloudy with a chance of meatballs"
+      "recommendation": "Oblačno, padaće ćufte"
     },
     "900": {
-      "recommendation": "⚠️ Tornado warning ⚠️ Seek safe shelter immediately. stay away from doors, windows, outside walls and protect your head!"
+      "recommendation": "⚠️ Upozorenje-Tornado  ⚠️ Sklonite se odmah. Budite podalje od vrata, prozora, spoljnih zidova i čuvajte se!"
     },
     "902": {
-      "recommendation": "⚠️ Hurricane warning ⚠️ Stay indoors and away from windows. Be on the lookout for the latest emergency response information"
+      "recommendation": "⚠️ Upozorenje- Uragani ⚠️Budite unutra i podalje od prozora. Pratite vesti!"
     },
     "903": {
-      "recommendation": "Snowflakes falling with a chilly wind blowing. Christmas already?"
+      "recommendation": " Pahulje i hladan vetar. Zar je već Božić??"
     },
     "904": {
-      "recommendation": "Absolutely blazing outside. Ice baths on rotation is the bare minimum"
+      "recommendation": "Mećava. Nazdravlje!"
     },
     "906": {
-      "recommendation": "Hailstorm forecasted. Take cover"
+      "recommendation": "Oluja sa gradom. Budite zaklonjeni negde."
     },
     "957": {
-      "recommendation": "Strong winds. Hold on to something or someone strong"
+      "recommendation": "Jak vetar. Držite se čvrsto za nešto"
     }
   }
 }

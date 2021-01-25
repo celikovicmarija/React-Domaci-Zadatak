@@ -28,6 +28,8 @@ export default function Form() {
     event.preventDefault();
     if (values.firstName && values.lastName && values.email){
       setValid(true);
+    }else{
+      setValid(false);
     }
     setSubmitted(true);
 
@@ -37,39 +39,41 @@ export default function Form() {
     <div class="form-container">
       <form class="register-form" onSubmit={handleSumbit}>
 
-        { submitted && valid? <div class="success-message">Success! Thank you for registering</div>:null}
+        { submitted && valid? <div class="success-message">Uspešno! Zahvaljujemo se na povratnoj informaciji.</div>:null}
+
         <input
           onChange={handleFirstNameInputChange}
           value={values.firstName}
           id="first-name"
           class="form-field"
           type="text"
-          placeholder="First Name"
+          placeholder="Ime"
           name="firstName"
         />
-        {submitted && !values.firstName? <span id="first-name-error">Please enter a first name</span> :null}
+        {submitted && !values.firstName? <span id="first-name-error">Molimo unesite ime</span> :null}
         <input
           onChange={handleLastNameInputChange}
           value={values.lastName}
           id="last-name"
           class="form-field"
           type="text"
-          placeholder="Last Name"
+          placeholder="Email adresa"
           name="lastName"
         />
-        {submitted && !values.lastName?<span id="last-name-error">Please enter a last name</span>:null }
+        {submitted && !values.lastName?<span id="last-name-error">Molimo email adresu</span>:null }
         <input
           onChange={handleEmailInputChange}
           value={values.email}
           id="email"
           class="form-field"
+          className="poruka"
           type="text"
-          placeholder="Email"
+          placeholder="Poruka"
           name="email"
         />
-        {submitted && !values.email?<span id="email-error">Please enter an email address</span> :null}
+        {submitted && !values.email?<span id="email-error">Molimo unesite poruku</span> :null}
         <button class="form-field" type="submit">
-          Register
+          Pošalji
         </button>
       </form>
     </div>
