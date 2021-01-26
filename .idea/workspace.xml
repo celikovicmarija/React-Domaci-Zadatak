@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e20d9c9c-0d4a-4232-bf6e-feb6df1c84f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Logo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Forecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Forecast.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/icons.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WeatherSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WeatherSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/giphy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/giphy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marija\react-weather\src\img" />
       <recent name="C:\Users\Marija\react-weather\src\css" />
     </key>
   </component>
@@ -64,7 +65,7 @@
       <updated>1611531715909</updated>
       <workItem from="1611531718441" duration="1975000" />
       <workItem from="1611563824514" duration="31010000" />
-      <workItem from="1611647614956" duration="1323000" />
+      <workItem from="1611647614956" duration="15767000" />
     </task>
     <servers />
   </component>

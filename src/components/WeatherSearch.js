@@ -58,7 +58,7 @@ export default function WeatherSearch(props) {
               onChange={handleSearch}
               startAdornment={
                 <InputAdornment position="start">
-                  <Tooltip title="Optional: Enter a two-letter country code after the city name to make the search more precise. For example, London, GB.">
+                  <Tooltip title="Opciono: uneti kod zemlje od dva slova da bi ptretraga bila preciznija. Primer: London, GB.">
                     <Search />
                   </Tooltip>
                 </InputAdornment>

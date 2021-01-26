@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Form from "./Form";
-import gif from "../giphy.gif";
+import gif from "../img/giphy.gif";
 import {
   AppBar,
   Button,
@@ -11,7 +11,7 @@ import {
   Typography
 } from "@material-ui/core";
 
-import about from "../about.png";
+import about from "../img/about.png";
 import MapChart from "./MapChart";
 import ReactTooltip from "react-tooltip";
 
@@ -22,12 +22,13 @@ const useStyles = makeStyles(theme => ({
     backgroundColor:"aquamarine"
   },
   aboutImg: {
-    padding: "30px 150px 0px 150px",
+    marginLeft: "140px",
+    padding: "0 50px 5 30px",
     width: "100px"
   },
   aboutText: {
     fontFamily: "Montserrat",
-    padding: "30px"
+    padding: "20px"
   },
   appBar: {
     background: "transparent",
@@ -63,10 +64,11 @@ const TemporaryDrawer = () => {
       onClick={toggleDrawer(side, false)}
       onKeyDown={toggleDrawer(side, false)}
     >
-      <img src={about} className={classes.aboutImg} alt="about" />
+      <img src={require('../img/about.png')} className={classes.aboutImg} alt="about" />
+
       <Typography className={classes.aboutText} component="div" gutterBottom>
         <b>ReactWeather</b> je rad  kreiran kao domaći zadatak {" "}
-        <span role="img" aria-label="love emoji" style={{ color: "red" }}>
+        <span role="img"  style={{ color: "red" }}>
           ♥️
         </span>{" "}
         za projekat iz ITEH-a od strane {" "}
@@ -172,11 +174,11 @@ const TemporaryDrawerContact = () => {
   //    onClick={toggleDrawer(side, false)}
     //  onKeyDown={toggleDrawer(side, false)}
     >
-      <img src={about} className={classes.aboutImg} alt="about" />
+      <img src={require('../img/about.png')} className={classes.aboutImg} alt="about" />
 
       <Typography className={classes.aboutText} component="div" gutterBottom>
         <b>ReactWeather</b> je rad  kreiran kao domaći zadatak {" "}
-        <span role="img" aria-label="love emoji" style={{ color: "red" }}>
+        <span role="img"  style={{ color: "red" }}>
           ♥️
         </span>{" "}
         za projekat iz ITEH-a od strane{" "}
@@ -246,9 +248,11 @@ const DrawerMap = () => {
       onClick={toggleDrawer(side, false)}
       onKeyDown={toggleDrawer(side, false)}
     >
+      <img src={require('../img/about.png')} className={classes.aboutImg} alt="about" />
+
       <Typography className={classes.aboutText} component="div" gutterBottom>
         <b>ReactWeather</b> je rad  kreiran kao domaći zadatak {" "}
-        <span role="img" aria-label="love emoji" style={{ color: "red" }}>
+        <span role="img"  style={{ color: "red" }}>
           ♥️
         </span>{" "}
         za projekat iz ITEH-a od strane{" "}
@@ -308,7 +312,7 @@ export default function NavBar() {
     <div className={classes.root}>
       <AppBar className={classes.appBar}>
         <Toolbar variant="dense">
-          <img src={require("../logo.png")} style= {{ width: "30px", height: "30px" }} alt="logo" /> ReactWeather
+          <img src={require("../img/logo.png")} style= {{ width: "30px", height: "30px" }} alt="logo" /> ReactWeather
           <div style={{ flex: "1 1 auto"  }}></div>
           <DrawerMap/>
           <TemporaryDrawer />

@@ -32,7 +32,7 @@ export default function Forecast(props) {
           primary={dayjs(item.dt_txt).format("dddd")}
           style={{ flex: "1 1 0%", textAlign: "left" }}
         ></ListItemText>
-        <IconButton disabled={true} aria-label="forecast icon">
+        <IconButton disabled={false} >
           <span
             className={`${classes.wi} ${icon}`}
             style={{ fontSize: "24px" }}
@@ -50,5 +50,5 @@ export default function Forecast(props) {
     );
   });
 
-  return <List aria-label="forecast data">{result}</List>;
+  return <List>{result}</List>;
 }
