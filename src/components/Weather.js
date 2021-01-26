@@ -3,8 +3,8 @@ import React from "react";
 import AppLayout from "./AppLayout";
 import WeatherSearch from "./WeatherSearch";
 
-import * as weatherIcons from "../icons";
-import * as recommendations from "../recommendations";
+import * as weatherIcons from "../data/icons.json";
+import * as recommendations from "../data/recommendations.json";
 
 export default function Weather(props) {
   const { city, currentWeather, forecast, onCityChange, error } = props;
