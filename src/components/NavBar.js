@@ -12,7 +12,6 @@ import {
 } from "@material-ui/core";
 
 import about from "../about.png";
-import { Logo } from "./Logo";
 import MapChart from "./MapChart";
 import ReactTooltip from "react-tooltip";
 
@@ -309,7 +308,7 @@ export default function NavBar() {
     <div className={classes.root}>
       <AppBar className={classes.appBar}>
         <Toolbar variant="dense">
-          <Logo />
+          <img src={require("../logo.png")} style= {{ width: "30px", height: "30px" }} alt="logo" /> ReactWeather
           <div style={{ flex: "1 1 auto"  }}></div>
           <DrawerMap/>
           <TemporaryDrawer />

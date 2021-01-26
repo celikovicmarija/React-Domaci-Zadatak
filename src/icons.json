@@ -89,15 +89,15 @@
       "icon": "rain"
     },
     "503": {
-      "label": "very heavy rain",
+      "label": "veoma jake kiše",
       "icon": "rain"
     },
     "504": {
-      "label": "extreme rain",
+      "label": "jake kiše",
       "icon": "rain"
     },
     "511": {
-      "label": "freezing rain",
+      "label": "hladne kiše",
       "icon": "rain-mix"
     },
     "520": {
@@ -121,11 +121,11 @@
       "icon": "snow"
     },
     "601": {
-      "label": "snow",
+      "label": "sneg",
       "icon": "sleet"
     },
     "602": {
-      "label": "heavy snow",
+      "label": "obilan sneg",
       "icon": "snow"
     },
     "611": {
@@ -157,11 +157,11 @@
       "icon": "snow"
     },
     "701": {
-      "label": "mist",
+      "label": "magla",
       "icon": "showers"
     },
     "711": {
-      "label": "smoke",
+      "label": "dim",
       "icon": "smoke"
     },
     "721": {
@@ -173,11 +173,11 @@
       "icon": "dust"
     },
     "741": {
-      "label": "fog",
+      "label": "magla",
       "icon": "day-fog"
     },
     "751": {
-      "label": "sand",
+      "label": "pesak",
       "icon": "cloudy-gusts"
     },
     "761": {
@@ -229,11 +229,11 @@
       "icon": "hurricane"
     },
     "903": {
-      "label": "cold",
+      "label": "hladno",
       "icon": "snowflake-cold"
     },
     "904": {
-      "label": "hot",
+      "label": "vruće",
       "icon": "hot"
     },
     "905": {
@@ -511,11 +511,11 @@
       "icon": "hurricane"
     },
     "903": {
-      "label": "snowflake-cold",
+      "label": "pahuiljasto -hladno",
       "icon": "snowflake-cold"
     },
     "904": {
-      "label": "hot",
+      "label": "vruće",
       "icon": "hot"
     },
     "906": {
@@ -523,7 +523,7 @@
       "icon": "night-alt-hail"
     },
     "957": {
-      "label": "strong wind",
+      "label": "jak vetar",
       "icon": "strong-wind"
     }
   }
